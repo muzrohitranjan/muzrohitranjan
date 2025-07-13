@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=muzrohitranjan" />
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=F7F7F7&center=true&vCenter=true&width=440&height=45&lines=Hi+%F0%9F%91%8B%2C+I'm+Rohit+Ranjan!;Software+Engineer+at+Outlier!;Amazon+SDE+Aspirant!;DSA+%7C+System+Design+%7C+Full+Stack+Dev" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&color=FFFFFF&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Welcome+to+my+GitHub+Profile!" />
 </h1>
 
 <h3 align="center">B.Tech CSE @ VTU Bengaluru | Software Engineer @ Outlier | Amazon SDE Aspirant</h3>
@@ -40,21 +40,48 @@ I'm currently working towards cracking the **Amazon SDE interview** with strong 
 - Load Balancing, API Gateway, OAuth  
 - AWS (EC2, S3, Lambda), System Design Patterns
 
-💡 Projects I build:
+💡 Projects I build:  
 > Are clean, mobile-first, and solve actual problems.
 
 ---
 
-## 🔨 Featured Projects
+## 📁 Projects Showcase
 
-- 🔗 [SplitMyExpense](https://github.com/muzrohitranjan/splitmyexpense)  
-  A group expense splitter with localStorage, share link, and charts.
+### 🔹 [SplitMyExpense](https://github.com/muzrohitranjan/splitmyexpense)
 
-- 💻 [Placement-Portal](https://github.com/muzrohitranjan/placement-portal)  
-  Job manager built with React.js and Firebase used by 200+ students.
+> 💸 A modern group expense splitter with real-time UI, chart analytics, localStorage, and shareable links.
 
-- 📈 [Diabetes Predictor](https://github.com/muzrohitranjan/diabetes-predictor)  
-  ML-based prediction using real patient data, Python + Pandas + Sklearn.
+- Built using HTML, CSS, JavaScript
+- Responsive layout with animated modals and toast notifications
+- Calculates per person split, tracks history, supports WhatsApp/email sharing
+
+### 🔹 [Placement Portal](https://github.com/muzrohitranjan/placement-portal)
+
+> 🎓 Job application manager built with React + Firebase, used by 200+ students.
+
+- Features: CRUD, sorting/filtering, Firebase Auth, mobile-first
+- Integrated with Firestore and resume uploader
+
+### 🔹 [Diabetes Predictor](https://github.com/muzrohitranjan/diabetes-predictor)
+
+> 🧠 ML-based app to predict diabetes using real-world patient data (Python, Scikit-Learn)
+
+- Clean form UI, trained model, prediction output, and input metrics
+
+---
+
+## 📘 DSA & System Design Journey
+
+🔢 Solved 400+ LeetCode Questions  
+🔸 Daily Practice: Arrays, Trees, Graphs, Sliding Window  
+📈 [LeetCode Profile](https://leetcode.com/u/muzrohitranjan/)
+
+🧱 System Design Topics:
+- Load Balancing, Caching, Rate Limiting  
+- CAP Theorem, Consistent Hashing  
+- Design: WhatsApp, URL Shortener, YouTube, Twitter
+
+🧾 Currently maintaining **personal system design notes** via GitHub Wiki
 
 ---
 
@@ -88,3 +115,5 @@ I'm currently working towards cracking the **Amazon SDE interview** with strong 
   <a href="https://github.com/muzrohitranjan"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/rohit-ranjan-sde"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
+
+---
