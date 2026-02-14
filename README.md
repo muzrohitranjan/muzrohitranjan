@@ -62,3 +62,4 @@
     <img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-orange?logo=buymeacoffee&style=for-the-badge" />
   </a>
 </p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rohit%20Ranjan-blue?logo=linkedin)](https://in.linkedin.com/in/rohit-ranjan-sde)
